@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507718477 source:c:\users\samuel\documents\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507999686 source:e:\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+
